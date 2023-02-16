@@ -1,0 +1,15 @@
+D:\Games\Учеба\ЯзыкС\praktika1\bin\Debug\net6.0\praktika1.exe
+D:\Games\Учеба\ЯзыкС\praktika1\bin\Debug\net6.0\praktika1.deps.json
+D:\Games\Учеба\ЯзыкС\praktika1\bin\Debug\net6.0\praktika1.runtimeconfig.json
+D:\Games\Учеба\ЯзыкС\praktika1\bin\Debug\net6.0\praktika1.dll
+D:\Games\Учеба\ЯзыкС\praktika1\bin\Debug\net6.0\praktika1.pdb
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.csproj.AssemblyReference.cache
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.AssemblyInfoInputs.cache
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.AssemblyInfo.cs
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.csproj.CoreCompileInputs.cache
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.dll
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\refint\praktika1.dll
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.pdb
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\praktika1.genruntimeconfig.cache
+D:\Games\Учеба\ЯзыкС\praktika1\obj\Debug\net6.0\ref\praktika1.dll
