@@ -1,3 +1,3 @@
-﻿Console.WriteLine(" 2 Hello, World!");
+﻿Console.WriteLine(" Напишите имя");
 Console.WriteLine(" 2 Hello, World!");
 Console.WriteLine(" 2 Hello, World!");
